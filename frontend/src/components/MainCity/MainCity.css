@@ -1,0 +1,32 @@
+.Temp span {
+    font-size: 100px !important;
+    color: rgb(124, 124, 124);
+    margin-left: 60px;
+}
+
+.Temp{
+    margin-top: 20px;
+}
+
+.MainCity {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 230px;
+}
+
+.MainInfo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.MainInfo span {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.MainInfo div {
+    display: flex;
+    align-items: center;
+}

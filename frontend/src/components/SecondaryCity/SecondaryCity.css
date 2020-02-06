@@ -1,0 +1,29 @@
+.SecondaryCity {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 490px;
+    height: 310px;
+}
+
+.SecondaryInfo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 80px;
+}
+
+.SecondaryInfo span {
+    font-size: 31px;
+    font-weight: bold;
+}
+
+.SecondaryInfo div {
+    display: flex;
+    align-items: center;
+}
+
+#temp{
+    color: rgb(124, 124, 124);
+}
